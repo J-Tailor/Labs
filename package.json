@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Comp2156 labs",
   "main": "index.js",
+  "homepage": "https://j-tailor.github.io/Labs/",
   "scripts": {
    "start": "react-scripts start",
    "build": "react-scripts build",
